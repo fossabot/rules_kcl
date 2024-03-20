@@ -1,4 +1,6 @@
 # KCL rules for Bazel
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Frules_kcl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Frules_kcl?ref=badge_shield)
+
 
 These are build rules for KCL tools during a Bazel build.
 
@@ -83,3 +85,7 @@ buildifier -r .
 ## Roadmap
 
 + [ ] KCL module related commands, e.g. `kcl mod add k8s`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Frules_kcl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Frules_kcl?ref=badge_large)
